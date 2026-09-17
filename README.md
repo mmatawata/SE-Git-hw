@@ -6,9 +6,9 @@ Repository was created for CINS 5318 Software Engineering Git/ GitHub assignment
 
 \*\* Project Files
 
-hello.py — Prints Hello World message. I later modified during merge-conflict exercise.
+hello.py - Prints Hello World message. I later modified during merge-conflict exercise.
 
-apple.py — Prints I eat apple.
+apple.py - Prints I eat apple.
 
 
 
@@ -68,9 +68,9 @@ Hello, World! Merge conflict resolved.
 
 \*\* GitHub Issues
 
-Issue #2 — Expand README with project documentation: Assigned to Marc Mata. The README was expanded with the project purpose, program descriptions, branch and pull-request workflow, and merge-conflict resolution steps.
+Issue #2 - Expand README with project documentation: Assigned to Marc Mata. The README was expanded with the project purpose, program descriptions, branch and pull-request workflow, and merge-conflict resolution steps.
 
-Issue #3 — Review/test Python programs: Assigned to a classmate to review both Python files, verify their output, and report the results.
+Issue #3 - Review/test Python programs: Assigned to a classmate to review both Python files, verify their output, and report the results.
 
 
 
