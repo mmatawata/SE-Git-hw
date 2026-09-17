@@ -34,8 +34,8 @@ The resolved output is:
 Hello, World! Merge conflict resolved.
 
 ** GitHub Issues
-Issue #2 — Expand README with project documentation: Assigned to Marc Mata. The README was expanded with the project purpose, program descriptions, branch and pull-request workflow, and merge-conflict resolution steps.
-Issue #3 — Review/test Python programs: Assigned to a classmate to review both Python files, verify their output, and report the results.
+Issue #2 - Expand README with project documentation: Assigned to Marc Mata. The README was expanded with the project purpose, program descriptions, branch and pull-request workflow, and merge-conflict resolution steps.
+Issue #3 - Review/test Python programs: Assigned to a classmate to review both Python files, verify their output, and report the results.
 
 ** Concepts Demonstrated
 Git installation and configuration
